@@ -1,0 +1,5 @@
+Liste des structures de donnees et des algorithmes de tri:
+
+Quick Sort (implémentation récursive): Le fait de diviser plusieurs fois le tableau en sous tableau.
+RQ - Random Quick Sort (implémentation récursive) : Le fait de sélectionner un pivot de manière aléatoire.
+
